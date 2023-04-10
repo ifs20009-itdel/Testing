@@ -1,4 +1,5 @@
-##Beasiswa Internal dan Eksternal IT Del
+#Beasiswa Internal dan Eksternal IT Del
+
 
 Aplikasi Beasiswa internal dan eksternal adalah suatu aplikasi berbasis website yang digunakan 
 untuk mengakses dan melihat informasi mengenai beasiswa kepada mahasiswa melalui daring (online). 
@@ -11,12 +12,15 @@ kelengkapan formulir yang dibutuhkan selama proses pendaftaran dan melihat hasil
 memudahkan mahasiswa dengan pihak kampus dalam melakukan pendataan terhadap seluruh mahasiswa yang akan membutuhkan informasi 
 mengenai beasiswa. Website ini nantinya akan digunakan oleh beberapa pihak, terutama seluruh mahasiswa.
 
+
 #Product Scope
+
 Aplikasi dan website ini mendukung atau membantu sistem kerja yang berlaku di kampus. Website dan aplikasi ini memungkinkan mahasiswa untuk melihat informasi mengenai beasiswa internal dan eksternal yang ada di Institut Teknologi DEL melalui sebuah website dan aplikasi Beasiswa Internal dan Eksternal. Informasi yang dimaksud yaitu: informasi beasiswa, pendaftaran beasiswa, pengumuman beasiswa, serta mempermudah interaksi antar Mahasiswa dengan kemahasiswaan, WR1, dan Direktur Pendidikan dalam mendapat informasi mengenai beasiswa. Sehingga organisasi pemilik sistem tidak perlu melakukan pekerjaannya secara manual dapat proses komunikasi terhadap para mahasiswa. Mahasiswa juga dapat melihat hasil seleksi yang lulus beasiswa tertentu melalui fitur pengumuman yang terdapat di website atau aplikasi.
 Aplikasi ini akan mengidentifikasi user dengan id atau NIM dan password yang terhubung langsung dengan CIS. Aplikasi dan website ini mampu mempermudah mahasiswa dan pihak-pihak terkait tentang segala hal beasiswa di kampus.  Selain itu perangkat lunak harus dapat menangani terjadinya akses yang bersamaan terhadap akun yang sama secara benar.
 
 
 #Users
+
 Users yang terlibat dalam sistem ini adalah sebagai berikut :
 
 - Mahasiswa
